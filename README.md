@@ -36,7 +36,6 @@ A project displaying movies with details using HTML, CSS, and JavaScript.
 ### 🌐 *Personal Portfolio*
 A simple and responsive portfolio showcasing my work and skills.
 - *Technologies*: HTML, TailwindCSS, JavaScript
-- [Visit Portfolio](https://port-folio-l38u.vercel.app/)
 - [GitHub Repo](https://github.com/eriifeoluwasimi/Port-folio)
 
 ## 🌱 Currently Learning
@@ -49,8 +48,7 @@ A simple and responsive portfolio showcasing my work and skills.
 
 - [![LinkedIn Badge](https://img.shields.io/badge/-Omomobi%20Janet%20Olayemi-%23007ACC?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/janet-olayemi09)
 - 📧 Email: ayankoya.janet09@gmail.com
-- 🌐 [Portfolio](https://eriifeoluwasimi.github.io/portfolio/)
-
+- 🌐 [Portfolio](https://port-folio-l38u.vercel.app/)
 ---
 
 | <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=eriifeoluwasimi&theme=tokyonight&stroke=DD59CF&show_icons=true&include_all_commits=true&hide_border=true" alt="Janet's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eriifeoluwasimi&langs_count=8&layout=compact&theme=tokyonight&stroke=DD59CF&show_icons=true&include_all_commits=true&hide_border=true" alt="Janet's GitHub stats" /> |
